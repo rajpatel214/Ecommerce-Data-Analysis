@@ -26,12 +26,7 @@ This project provides various **SQL queries** to analyze **ecommerce data**, foc
 - **Date functions** (`STR_TO_DATE()`, `MONTHNAME()`) for **time-based analysis**.
 - **Conditional statements** (`CASE WHEN`) for **categorization and filtering**.
 
-## Usage
-Run the SQL queries on your ecommerce dataset to extract meaningful insights and improve **business decision-making**.
-
 ## Conclusion
 This SQL-based ecommerce data analysis provides valuable insights into **customer behavior, shipping trends, profitability, and sales performance**. By leveraging **CTEs, window functions, and aggregations**, businesses can make **data-driven decisions** to enhance **efficiency and revenue**.
 
----
-Let me know if you need further refinements! 🚀
 
